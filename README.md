@@ -18,6 +18,6 @@ This project explores two types of machine learning algorithms: **supervised lea
  ### Conclusion
 After running both supervised and unsupervised learning algorithms, we observed the following:
 - **Supervised Learning** showed better performance with higher accuracy and more reliable predictions.
-- **Unsupervised Learning**, Encountered difficulties in fully implementing the unsupervised learning algorithm in the project.
+- **Unsupervised Learning** encountered difficulties in fully implementing the unsupervised learning algorithm in the project.
 
   
