@@ -5,7 +5,7 @@ This project explores two types of machine learning algorithms: **supervised lea
 1. **Supervised Learning:** Logistic Regression, Support Vector Machine, etc.
 2. **Unsupervised Learning:** K-Means Clustering, Principal Component Analysis (PCA), etc.
 ## Results
-- **Supervised Learning Results:**
+- **Supervised Learning Results(Logistic Regression):**
   -Model Accuracy: 97%
   -Precision: 0.96 (for class 0), 0.98 (for class 1)
   -Recall: 0.99 (for class 0), 0.94 (for class 1)
