@@ -20,4 +20,5 @@ After running both supervised and unsupervised learning algorithms, we observed 
 - **Supervised Learning** showed better performance with higher accuracy and more reliable predictions.
 - **Unsupervised Learning** encountered difficulties in fully implementing the unsupervised learning algorithm in the project.
 
+Kaggle Notebook'um [buradan görüntüleyebilirsiniz](https://www.kaggle.com/code/aleynacimsit/supervised-unsupervised-machine-learning).
   
