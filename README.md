@@ -1,9 +1,9 @@
 # Cancer Prediction Project: Supervised vs Unsupervised Learning
 ## Project Overview
 This project explores two types of machine learning algorithms: **supervised learning** and **unsupervised learning**. The goal is to predict whether a tumor is benign or malignant using a given dataset. We evaluate the performance of both types of learning algorithms and determine which approach is more suitable for this dataset.
-Kullanılan Algoritmalar
-Denetimli Öğrenme: Lojistik Regresyon, Destek Vektör Makinesi (SVM) vb.
-Denetimsiz Öğrenme: K-Means Kümeleme, Temel Bileşenler Analizi (PCA) vb.
+## Algorithms Used
+1. **Supervised Learning:** Logistic Regression, Support Vector Machine, etc.
+2. **Unsupervised Learning:** K-Means Clustering, Principal Component Analysis (PCA), etc.
 ## Results
 - **Supervised Learning Results:**
   -Model Accuracy: 97%
